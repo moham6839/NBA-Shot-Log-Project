@@ -28,7 +28,7 @@ A focused analysis on what feature or features affect made or missed shot attemp
 * Random Forest
 * XG Boost
 
-Among the initial models, Decision Tree and XG Boost performed the best:
+Among the initial models, Decision Tree and XG Boost performed the best: 
 
 ## Decision Tree:
 
@@ -52,6 +52,8 @@ weighted avg       1.00      1.00      1.00     14849
    macro avg       0.54      0.54      0.54      3713
 weighted avg       0.54      0.54      0.54      3713
 
+According to the model, the training data had 100% accuracy, while the testing data had 54% accuracy, which indicates there is overfitting.
+
 ## XG Boost:
 
 ![image](https://user-images.githubusercontent.com/77416319/135196375-06459d76-db6d-45c4-bb4b-4b4cf57cf376.png)
@@ -73,3 +75,23 @@ weighted avg       0.79      0.79      0.78     14849
     accuracy                           0.58      3713
    macro avg       0.57      0.57      0.56      3713
 weighted avg       0.57      0.58      0.57      3713
+
+As the results of the model show, the training data had 79% accuracy, while the testing data had 58% accuracy. While it recalled missed shots at a 69% rate, its recall rate for made shots was only 44%, meaning that there was a high rate of made baskets incorrectly labeled as missed shots in the testing data.  
+
+## Feature Importances:
+
+For the two models I selected, I created a function that ranked the importance of each feature used in the model:
+
+### Decision Tree:
+
+![image](https://user-images.githubusercontent.com/77416319/135199129-8c6acb17-aced-419f-9829-d7bee11e87fb.png)
+
+### XG Boost:
+
+![image](https://user-images.githubusercontent.com/77416319/135199231-772a7365-7b38-4549-9fb8-ac7efefb0953.png)
+
+The results show that Shot Distance was the most important feature when determining the outcome of a shot attempt.
+
+
+
+
