@@ -56,5 +56,20 @@ weighted avg       0.54      0.54      0.54      3713
 
 ![image](https://user-images.githubusercontent.com/77416319/135196375-06459d76-db6d-45c4-bb4b-4b4cf57cf376.png)
 
+              precision    recall  f1-score   support
 
+           0       0.76      0.87      0.81      7936
+           1       0.83      0.68      0.75      6913
 
+    accuracy                           0.79     14849
+   macro avg       0.79      0.78      0.78     14849
+weighted avg       0.79      0.79      0.78     14849
+
+              precision    recall  f1-score   support
+
+           0       0.60      0.69      0.64      2037
+           1       0.54      0.44      0.48      1676
+
+    accuracy                           0.58      3713
+   macro avg       0.57      0.57      0.56      3713
+weighted avg       0.57      0.58      0.57      3713
