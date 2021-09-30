@@ -82,16 +82,15 @@ As the results of the model show, the training data had 79% accuracy, while the 
 
 For the two models I selected, I created a function that ranked the importance of each feature used in the model:
 
-### Decision Tree:
+### Decision Tree(click on image to enlarge):
 
+![image](https://user-images.githubusercontent.com/77416319/135375174-d33581df-a916-467f-8f12-f58f9079a47c.png)
 
+### XG Boost(click on image to enlarge):
 
-### XG Boost:
+![image](https://user-images.githubusercontent.com/77416319/135375231-a7909f6b-8da8-43b6-9e78-11fdf2e71d75.png)
 
-![Feat Impt XG](https://user-images.githubusercontent.com/77416319/135374644-8648e5ea-0ef6-4b7f-88b5-4f0a420a8b87.png)
-
-
-The results show that Shot Distance was the most important feature when determining the outcome of a shot attempt.
+The results show that Shot Distance was the most important feature when determining the outcome of a shot attempt for each model.
 
 
 
