@@ -88,7 +88,6 @@ For the two models I selected, I created a function that ranked the importance o
 
 ### XG Boost:
 
-![image](https://user-images.githubusercontent.com/77416319/135374350-5d3575d5-75f9-49fd-98a3-0da295b6c34e.png)
 
 The results show that Shot Distance was the most important feature when determining the outcome of a shot attempt.
 
