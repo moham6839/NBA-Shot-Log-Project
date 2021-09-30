@@ -90,7 +90,48 @@ For the two models I selected, I created a function that ranked the importance o
 
 ![image](https://user-images.githubusercontent.com/77416319/135375231-a7909f6b-8da8-43b6-9e78-11fdf2e71d75.png)
 
-The results show that Shot Distance was the most important feature when determining the outcome of a shot attempt for each model.
+The results show that Shot Distance was the most important feature when determining the outcome of a shot attempt for each model. 
 
+## Final Model:
 
+For the two initial models that had the highest accuracy, I used GridSearch to conduct hyperparameter tuning for each model. XG Boost performed the best, with a max depth of 6. Below are the results:
 
+Grid Search found the following optimal parameters: 
+learning_rate: 0.1
+max_depth: 6
+min_child_weight: 1
+n_estimators: 100
+subsample: 0.7
+
+Training Accuracy: 68.95%
+Validation accuracy: 68.95%
+
+![image](https://user-images.githubusercontent.com/77416319/135382487-c2de19c1-ae09-403a-8d5f-ca39325919de.png)
+
+              precision    recall  f1-score   support
+
+           0       0.67      0.86      0.75      7936
+           1       0.76      0.53      0.62      6913
+
+    accuracy                           0.70     14849
+   macro avg       0.72      0.69      0.69     14849
+weighted avg       0.72      0.70      0.69     14849
+
+              precision    recall  f1-score   support
+
+           0       0.60      0.76      0.67      2037
+           1       0.57      0.40      0.47      1676
+
+    accuracy                           0.59      3713
+   macro avg       0.59      0.58      0.57      3713
+weighted avg       0.59      0.59      0.58      3713
+
+My final model has a training accuracy rate of 70%, while its testing accuracy rate is 59%. The feature importances of the final model indicates once again that shot distance will best determine the outcome of a shot(click on image below to enlarge):
+
+![image](https://user-images.githubusercontent.com/77416319/135382827-8dab3c20-ae97-45d0-8c7f-786c65c9db09.png)
+
+Based on the results from the models that were run, I decided to explore further the relationship between shot distance and shot result:
+
+![image](https://user-images.githubusercontent.com/77416319/135382997-80b19e71-c9c0-458e-af54-2a019a548036.png)
+
+As the image above illustrates, the highest rate of made shots were within about 5 feet of the basket, while the highest rate of missed shots were within about 25 feet. In addition, the highest frequencies of attempts were also within 5 feet and 25 feet, with the number of attempts within 25 feet the highest.
