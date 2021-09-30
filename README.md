@@ -84,14 +84,13 @@ For the two models I selected, I created a function that ranked the importance o
 
 ### Decision Tree:
 
-![image](https://user-images.githubusercontent.com/77416319/135199129-8c6acb17-aced-419f-9829-d7bee11e87fb.png)
+
 
 ### XG Boost:
 
-![image](https://user-images.githubusercontent.com/77416319/135199231-772a7365-7b38-4549-9fb8-ac7efefb0953.png)
+![image](https://user-images.githubusercontent.com/77416319/135374350-5d3575d5-75f9-49fd-98a3-0da295b6c34e.png)
 
 The results show that Shot Distance was the most important feature when determining the outcome of a shot attempt.
-
 
 
 
