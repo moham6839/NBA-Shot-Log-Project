@@ -146,10 +146,21 @@ Below are the shot distance distribution of 5 players with the highest percentag
 
 ## Chris Paul
 
+![image](https://user-images.githubusercontent.com/77416319/135569248-b8576603-8712-42aa-84e6-831ab1fdf8df.png)
+
 ## Stephen Curry
+
+![image](https://user-images.githubusercontent.com/77416319/135569295-bf9a1b33-459c-416c-a1f7-78871a4d1af6.png)
 
 ## Lebron James
 
+![image](https://user-images.githubusercontent.com/77416319/135569326-db17828e-1d00-4fcd-ac1b-8ba8797cd5a9.png)## Anthony Davis
+
 ## Anthony Davis
 
+![image](https://user-images.githubusercontent.com/77416319/135569660-300da5fb-1f10-4fa3-835a-7daccf2e1911.png)
+
 ## Nikola Vucevic
+
+![image](https://user-images.githubusercontent.com/77416319/135569698-ac4b989e-2f1b-46df-9753-aa4f9e998816.png)
+
