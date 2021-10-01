@@ -154,7 +154,7 @@ Below are the shot distance distribution of 5 players with the highest percentag
 
 ## Lebron James
 
-![image](https://user-images.githubusercontent.com/77416319/135569326-db17828e-1d00-4fcd-ac1b-8ba8797cd5a9.png)## Anthony Davis
+![image](https://user-images.githubusercontent.com/77416319/135569326-db17828e-1d00-4fcd-ac1b-8ba8797cd5a9.png)
 
 ## Anthony Davis
 
