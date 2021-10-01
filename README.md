@@ -134,4 +134,22 @@ Based on the results from the models that were run, I decided to explore further
 
 ![image](https://user-images.githubusercontent.com/77416319/135382997-80b19e71-c9c0-458e-af54-2a019a548036.png)
 
-As the image above illustrates, the highest rate of made shots were within about 5 feet of the basket, while the highest rate of missed shots were within about 25 feet. In addition, the highest frequencies of attempts were also within 5 feet and 25 feet, with the number of attempts within 25 feet the highest.
+As the image above illustrates, the highest rate of made shots were within about 5 feet of the basket, while the highest rate of missed shots were within about 25 feet. In addition, the highest frequency of attempts were also within 5 feet and 25 feet, with the number of attempts within 25 feet the highest.
+
+## Player Shooting Percentage Breakdown
+
+For the 20 players used in the models, I created a bar plot of percentages of made and missed shots for each player:
+
+![image](https://user-images.githubusercontent.com/77416319/135565357-1295b77e-9198-42df-b2c8-6c5964068c85.png)
+
+Below are the shot distance distribution of 5 players with the highest percentages of made shots:
+
+## Chris Paul
+
+## Stephen Curry
+
+## Lebron James
+
+## Anthony Davis
+
+## Nikola Vucevic
