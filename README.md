@@ -142,7 +142,7 @@ For the 20 players used in the models, I created a bar plot of percentages of ma
 
 ![image](https://user-images.githubusercontent.com/77416319/135565357-1295b77e-9198-42df-b2c8-6c5964068c85.png)
 
-Below are the shot distance distribution of 5 players with the highest percentages of made shots:
+Below are the shot distance distribution of 6 players with the highest percentages of made shots:
 
 ## Chris Paul
 
@@ -164,3 +164,14 @@ Below are the shot distance distribution of 5 players with the highest percentag
 
 ![image](https://user-images.githubusercontent.com/77416319/135569698-ac4b989e-2f1b-46df-9753-aa4f9e998816.png)
 
+## Blake Griffin
+
+![image](https://user-images.githubusercontent.com/77416319/135729932-cc851d56-9feb-4fdd-8a54-67eeb09a908c.png)
+
+## Final Conclusions
+
+When analyzing the relationship between the overall shot results and shot distances, as well as the six individual players with the highest percentage of made shots, there is a connection between made shots and the distance of the shots. The shorter the shot distance of the shot attempts, the higher the frequency of made shots there is. The longer the distance, the higher the frequency of missed shots there is. Therefore, players should make an effort to attempt more shots closer to the basket, preferably within 5 feet. Shot attempts longer than 20 feet will often result in missed shots. Shots between 10 and 20 feet are not attempted with high frequency, and should be considered an option for shot attempts.
+
+## Next Steps
+
+An updated dataset can provide a better comparative analysis of what features affect shot attempts, which would include current players and possible new shot tendencies when it comes to shot distance. In addition, future datasets of shot logs should include the coordinates of the court where the shot attempts are coming from. This can give more insights on the spaces of the court where players should consider shooting from.  
