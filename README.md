@@ -174,4 +174,4 @@ When analyzing the relationship between the overall shot results and shot distan
 
 ## Next Steps
 
-An updated dataset can provide a better comparative analysis of what features affect shot attempts, which would include current players and possible new shot tendencies when it comes to shot distance. In addition, future datasets of shot logs should include the coordinates of the court where the shot attempts are coming from. This can give more insights on the spaces of the court where players should consider shooting from.  
+An updated dataset can provide a better comparative analysis of what features affect shot attempts, which would include current players and possible new shot tendencies when it comes to shot distance. In addition, future datasets of shot logs should include the coordinates of the court where the shot attempts are coming from. This can give more insights on the areas of the court where players should consider shooting from.  
